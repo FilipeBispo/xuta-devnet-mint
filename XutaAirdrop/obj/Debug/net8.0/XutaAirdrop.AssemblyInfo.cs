@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XutaAirdrop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c29054ea238aeabfe31366c3535638bf2cf7939")]
 [assembly: System.Reflection.AssemblyProductAttribute("XutaAirdrop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XutaAirdrop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
