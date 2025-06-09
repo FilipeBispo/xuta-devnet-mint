@@ -1,0 +1,6 @@
+@XutaAirdrop_HostAddress = http://localhost:5197
+
+GET {{XutaAirdrop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
